@@ -1,0 +1,39 @@
+# ============================================================
+# .gitignore — naca6412-f1-frontwing-study
+# XFLR5 + Python project
+# ============================================================
+
+# XFLR5 temporary / backup files
+*.xfl~
+*.bak
+*.tmp
+XFLR5.ini
+xflr5.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+venv/
+env/
+*.egg-info/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Large exported images if regenerated (keep the finals, ignore drafts)
+module1-2d-foil-analysis/plots/*_draft.png
+module2-ground-effect-wing/plots/*_draft.png
+
+# Report drafts / temp Word lock files
+~$*.docx
+report/*_draft.docx
