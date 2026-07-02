@@ -1,0 +1,11 @@
+xflr5 v6.62
+
+Plane name :        naca6412_frontwing
+Polar name :        groundeffect_hc0.2
+Freestream speed :  60.000 m/s
+
+
+   alpha      Beta       CL          CDi        CDv        CD         CY         Cl         Cm         Cn        Cni       QInf        XCP
+    5.000     0.000   1.331610   0.018794   0.000000   0.018794   0.000000   0.000000  -0.534799  -0.000000  -0.000000   60.0000     0.0999
+
+
