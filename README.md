@@ -125,7 +125,7 @@ naca6412-f1-frontwing-study/
 
 ## What's Next
 
-This is Part 2 of a 12-month aerospace portfolio series targeting F1 team and space-industry internship applications. Next up:
+This is Part 2 of a 6-month aerospace portfolio series targeting F1 team and space-industry internship applications. Next up:
 
 | Project | Focus |
 |---|---|
@@ -139,7 +139,7 @@ This is Part 2 of a 12-month aerospace portfolio series targeting F1 team and sp
 
 **Praise** — 300-level Aerospace Engineering student, Lagos State University (LASU). Founder, AutoMark Systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/praise-omgbrumaye-923908393/)
 [![GitHub](https://img.shields.io/badge/GitHub-Praise1417-181717)](https://github.com/Praise1417)
 
 ---
